@@ -1,4 +1,3 @@
-package ops;
 class student {
     private String name;
     private int rollNumber;
